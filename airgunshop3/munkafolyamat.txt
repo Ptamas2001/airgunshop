@@ -1,0 +1,14 @@
+npm init
+npm start
+
+npm i nodemon: igy elég egyszer inditani szerkesztésnél
+package.json mappába beirni "start ": "nodemon index.js"
+npm install sequelize sequelize-cli
+npm install -g sequelize-cli
+
+
+
+npm install reactrouter-dom
+ npm install formik
+
+ npm install yup
