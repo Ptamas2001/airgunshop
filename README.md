@@ -10,6 +10,9 @@ Valamint szükséges egy adatbáziskezelő szoftverre (XAMP) lásd --> https://w
 A xampon belül indítsa el az Apache és MySql szervert majd hozzon létre egy adatbázist airgunWebpage néven UTF-8 kódolással
 majd importálja az sql airgunwebpage.sql fájlt
 A visual studio segítségével nyissa meg az airgunsop3 nevű mappát 
+
+Győződjön meg róla hogy mind a 3 mappa tartalmazza a node-modules mappát, ha esetleg hiányzik akkor telepítse azt
+
 Eztkövetően a terminalon keresztül :
 cd server 
 npm start
